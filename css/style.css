@@ -97,6 +97,13 @@
      border-radius: 10px;
      
     }
+    li{
+        /* padding: 50%; */
+        list-style-position: inside;
+    }
+    ul li{
+        font-size: 20px;
+    }
 
     @media screen and(max-width: 768px)
     {
